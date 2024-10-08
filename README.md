@@ -1,4 +1,4 @@
-# Astrophysical Simulation Model
+# 3D Astrophysical Simulation Model
 
 ![Example_Image](https://github.com/omerfarukoz/3D-astrophysical-simulation-model/raw/main/example0.gif)
 *(The GIF size has been reduced by fixing the FPS value to 2. The software operates smoothly.)*
@@ -42,7 +42,7 @@ This project is licensed under the MIT License. For more details, please refer t
 
 ---
 
-# Astrofiziksel Simülasyon Modeli
+# 3B Astrofiziksel Simülasyon Modeli
 
 ## Genel Bakış
 
